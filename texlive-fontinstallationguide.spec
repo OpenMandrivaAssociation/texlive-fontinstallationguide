@@ -1,6 +1,6 @@
 Name:		texlive-fontinstallationguide
 Version:	59755
-Release:	1
+Release:	2
 Summary:	Font installation guide
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fontinstallationguide
