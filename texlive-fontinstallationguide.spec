@@ -3,7 +3,7 @@ Version:	59755
 Release:	2
 Summary:	Font installation guide
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fontinstallationguide
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fontinstallationguide
 License:	fdl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fontinstallationguide.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fontinstallationguide.doc.r%{version}.tar.xz
